@@ -1,0 +1,8 @@
+/_build/
+/kawaparser.automaton
+/kawaparser.conflicts
+/.vscode/
+/kawai.exe
+/test.exe
+/output.png
+/graph.dot
